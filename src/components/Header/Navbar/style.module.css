@@ -1,0 +1,22 @@
+.mainItem {
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Item {
+    display: inline-block;
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+.Item:hover {
+    text-decoration: underline;
+}
+
+.Item > img {
+    border-radius: 15px;
+    width: 36px;
+    height: 36px;
+}

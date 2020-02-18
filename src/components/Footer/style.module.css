@@ -1,0 +1,14 @@
+.Footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    margin-top: 15%;
+}
+
+.Footer nav {
+    display: flex;
+}
+
+.Footer nav div a {
+    line-height: 35px;
+}

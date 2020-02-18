@@ -1,0 +1,6 @@
+.nawbar {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    margin: 10px;
+}

@@ -1,0 +1,21 @@
+.Item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+    margin: 5px 0;
+    text-decoration: none;
+}
+
+.Item img {
+    max-width: 40px;
+}
+
+.Item:hover {
+    text-decoration: underline;
+}
+
+.Item span {
+    font-size: 10px;
+    color: black;
+}
